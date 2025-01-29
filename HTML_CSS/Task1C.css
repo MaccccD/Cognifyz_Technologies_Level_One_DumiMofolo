@@ -43,3 +43,18 @@ figcaption {
     margin: 0 auto;
     display: block;
 }
+.nav1 {
+    max-width: 1000px;
+    width: 280px;
+    height: 45px;
+    margin-top: 70px;
+    background-color: #2503FD;
+    color: antiquewhite;
+    font-size: 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: relative;
+    left: calc(50% - 255px);
+}

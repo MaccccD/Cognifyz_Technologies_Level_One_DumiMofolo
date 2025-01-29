@@ -1,8 +1,11 @@
-// const number1 = 2;
-// const number2 = 5;
-// const answer = number1 + number2;
-// console.log(answer);
+// Trial Run Practice
+const numberOne = 2;
+const numberTwo = 5;
+const answer1 = number1 + number2;
+console.log(answer1);
 
+
+//grab the references 
 const firstNumber = document.querySelector(".firstNumber");
 const secondNumber = document.querySelector(".secondNumber");
 const answer = document.querySelector(".answer");
