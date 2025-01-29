@@ -1,7 +1,7 @@
 // Trial Run Practice
 const numberOne = 2;
 const numberTwo = 5;
-const answer1 = number1 + number2;
+const answer1 = numberOne + numberTwo;
 console.log(answer1);
 
 
