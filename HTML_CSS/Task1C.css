@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(7, 45, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navBar-Container{
+    background-color: rgb(2, 21, 2);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    gap: 30px;
+    border-radius: 70px;
+    width: 600px;
+    height: 70px;
+    margin-bottom: 170px;
+    top: 6%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+.navBar-Container a {
+    background-color: rgb(2, 21, 2);
+    color: antiquewhite;
+    text-decoration: none; 
+    font-size: 18px; 
+    line-height: 70px; 
+    text-align: center;
+}
+a:hover {
+    color: blue;
+}
+.image {
+    border-radius: 25px;
+    display: block;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+figcaption {
+    color: antiquewhite;
+    max-width: 490px;
+    margin-top: 80px;
+    margin: 0 auto;
+    display: block;
+}
