@@ -8,7 +8,7 @@ h1 {
     margin: 0 auto;
     color: antiquewhite;  
 }
-.Form-container {
+.form-container {
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
@@ -18,7 +18,7 @@ h1 {
 label {
     color: antiquewhite;
 }
-.Contact {
+.contact {
     display: flex;
     flex-direction: column;
 }
